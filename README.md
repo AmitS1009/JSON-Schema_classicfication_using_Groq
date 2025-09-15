@@ -119,7 +119,7 @@ print(result)
 
 ---
 
-**Author:** Amit Kushwaha
+**Author:** Amit Kushwaha\n
 **Date:** 2025-09-15
 
 ```
